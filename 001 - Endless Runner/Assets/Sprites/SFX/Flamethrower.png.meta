@@ -1,0 +1,366 @@
+fileFormatVersion: 2
+guid: f92d0549ca205324ebc7390bf7f54953
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: flamethrower_0001
+    21300002: flamethrower_0002
+    21300004: flamethrower_0003
+    21300006: flamethrower_0004
+    21300008: flamethrower_0005
+    21300010: flamethrower_0006
+    21300012: flamethrower_0007
+    21300014: flamethrower_0008
+    21300016: flamethrower_0009
+    21300018: flamethrower_0010
+    21300020: flamethrower_0011
+    21300022: flamethrower_0012
+    21300024: flamethrower_0013
+    21300026: flamethrower_0014
+    21300028: flamethrower_0015
+    21300030: flamethrower_0016
+    21300032: flamethrower_0017
+    21300034: flamethrower_0018
+    21300036: flamethrower_0019
+    21300038: flamethrower_0020
+    21300040: flamethrower_0021
+    21300042: flamethrower_0022
+    21300044: flamethrower_0023
+    21300046: flamethrower_0024
+    21300048: flamethrower_0025
+    21300050: flamethrower_0026
+    21300052: flamethrower_0027
+    21300054: flamethrower_0028
+    21300056: flamethrower_0029
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: flamethrower_0001
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 1500
+        width: 167
+        height: 38
+      alignment: 9
+      pivot: {x: 1.09580839, y: .842105269}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flamethrower_0002
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 938
+        width: 185
+        height: 57
+      alignment: 9
+      pivot: {x: 1.09189188, y: .666666687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flamethrower_0003
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 997
+        width: 203
+        height: 61
+      alignment: 9
+      pivot: {x: 1.06896555, y: .606557369}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flamethrower_0004
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 1248
+        width: 239
+        height: 92
+      alignment: 9
+      pivot: {x: 1.05857742, y: .380434781}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flamethrower_0005
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 825
+        width: 397
+        height: 128
+      alignment: 9
+      pivot: {x: 1.03022671, y: .4140625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flamethrower_0006
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 1231
+        width: 431
+        height: 178
+      alignment: 9
+      pivot: {x: 1.02784228, y: .432584256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flamethrower_0007
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1544
+        width: 472
+        height: 203
+      alignment: 9
+      pivot: {x: 1.02754235, y: .280788183}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flamethrower_0008
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 1795
+        width: 471
+        height: 251
+      alignment: 9
+      pivot: {x: 1.029724, y: .310756981}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flamethrower_0009
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1749
+        width: 478
+        height: 297
+      alignment: 9
+      pivot: {x: 1.02510464, y: .333333343}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flamethrower_0010
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1717
+        width: 474
+        height: 329
+      alignment: 9
+      pivot: {x: 1.02953589, y: .352583587}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flamethrower_0011
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 1686
+        width: 469
+        height: 360
+      alignment: 9
+      pivot: {x: 1.02985072, y: .38055557}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flamethrower_0012
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 1411
+        width: 467
+        height: 382
+      alignment: 9
+      pivot: {x: 1.02783728, y: .416230381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flamethrower_0013
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1251
+        width: 456
+        height: 291
+      alignment: 9
+      pivot: {x: 1.03070176, y: .226804122}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flamethrower_0014
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1412
+        width: 458
+        height: 303
+      alignment: 9
+      pivot: {x: 1.03493452, y: .254125416}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flamethrower_0015
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1091
+        width: 455
+        height: 319
+      alignment: 9
+      pivot: {x: 1.03296709, y: .278996855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flamethrower_0016
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 1342
+        width: 434
+        height: 342
+      alignment: 9
+      pivot: {x: 1.0391705, y: .318713456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flamethrower_0017
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 969
+        width: 438
+        height: 280
+      alignment: 9
+      pivot: {x: 1.04109585, y: .421428561}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flamethrower_0018
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 1041
+        width: 424
+        height: 299
+      alignment: 9
+      pivot: {x: 1.07547164, y: .448160529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flamethrower_0019
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 955
+        width: 421
+        height: 274
+      alignment: 9
+      pivot: {x: 1.09026134, y: .364963502}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flamethrower_0020
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 827
+        width: 401
+        height: 262
+      alignment: 9
+      pivot: {x: 1.10723197, y: .408396959}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flamethrower_0021
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 774
+        width: 403
+        height: 265
+      alignment: 9
+      pivot: {x: 1.12655091, y: .433962256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flamethrower_0022
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 764
+        width: 398
+        height: 203
+      alignment: 9
+      pivot: {x: 1.14321613, y: .576354682}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flamethrower_0023
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 429
+        width: 324
+        height: 201
+      alignment: 9
+      pivot: {x: 1.42283952, y: .527363181}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flamethrower_0024
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 626
+        width: 325
+        height: 197
+      alignment: 9
+      pivot: {x: 1.42461538, y: .451776654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flamethrower_0025
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 574
+        width: 328
+        height: 188
+      alignment: 9
+      pivot: {x: 1.41158533, y: .414893627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flamethrower_0026
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 632
+        width: 332
+        height: 193
+      alignment: 9
+      pivot: {x: 1.3975904, y: .37823835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flamethrower_0027
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 1060
+        width: 205
+        height: 186
+      alignment: 9
+      pivot: {x: 2.26829267, y: .354838699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flamethrower_0028
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 1540
+        width: 176
+        height: 144
+      alignment: 9
+      pivot: {x: 2.49431825, y: .159722224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flamethrower_0029
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1689
+        width: 17
+        height: 26
+      alignment: 9
+      pivot: {x: 25.7647057, y: .461538464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
